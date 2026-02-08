@@ -1,0 +1,5 @@
+numpy
+openai
+pandas
+scikit-learn
+langchain-text-splitters
